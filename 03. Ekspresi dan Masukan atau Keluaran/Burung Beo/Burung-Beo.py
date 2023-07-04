@@ -1,0 +1,3 @@
+kalimat = input ("")
+
+print (kalimat)
