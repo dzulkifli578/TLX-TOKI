@@ -11,8 +11,6 @@ public class LuasSegitiga
 
         scanner.close ();
         
-        float luas_segitiga = A * T / 2;
-
-        System.out.printf ("%.2f", luas_segitiga);
+        System.out.printf ("%.2f", A * T / 2);
     }
 }
