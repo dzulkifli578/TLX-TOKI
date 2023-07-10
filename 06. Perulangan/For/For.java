@@ -10,6 +10,8 @@ public class For
 
         kandang_bebek = scanner.nextShort ();
 
+        scanner.close ();
+
         for (short i = 1; i <= kandang_bebek; i++)
         {
             bebek = scanner.nextShort ();
